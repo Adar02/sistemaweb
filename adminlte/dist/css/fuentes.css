@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Roboto+Condensed:wght@300&family=Urbanist:wght@200&display=swap');
+
+.titular{
+	font-family: 'Great Vibes', cursive;
+	font-size: 30px;
+}
+
+.texto{
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 12px;
+}
